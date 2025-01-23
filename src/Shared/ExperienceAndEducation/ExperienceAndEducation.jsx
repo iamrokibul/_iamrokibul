@@ -10,7 +10,7 @@ const ExperienceAndEducation = () => {
                     <h1 className="text-3xl font-bold tracking-widest uppercase bg-gradient-to-r from-[#00d8ff] to-[#006eff] bg-clip-text text-transparent"> Experience</h1>
                 </div>
                 <div className="mt-5 space-y-2 border border-t-0 border-x-0 pb-5 border-b-[#555]">
-                    <h4 className="text-[#BCBCBC] opacity-[0.7] text-sm italic">Apr/2024 - Present <span>(3.4 Years)</span></h4>
+                    <h4 className="text-[#BCBCBC] opacity-[0.7] text-sm italic">Apr/2024 - Present</h4>
                     <h2 className="text-lg">Web Developer</h2>
                     <p className="text-[#BCBCBC] opacity-[0.7] text-sm">SKYGURU TRAVEL & TOURISM Co. LLC  <span className="block italic mt-2"> — Dubai - UAE</span></p>
                 </div>
